@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#faf6f0"/>
+  <rect x="32" y="32" width="448" height="448" rx="80" fill="none" stroke="#c44b4b" stroke-width="24"/>
+  <text x="256" y="340" text-anchor="middle" font-family="serif" font-size="260" fill="#c44b4b">梦</text>
+</svg>
